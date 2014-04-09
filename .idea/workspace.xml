@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07165b60-1af1-4a6b-98d0-fad139ced63d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-1/imagens/imagem-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-25-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-25-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-25-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-25-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-2/imagens/imagem-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/imagens/imagem-33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-33.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-34.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-35.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-36.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-37.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-38.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-39.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-40.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-41.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-42.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/capitulo-3/pagina-43.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/normal.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/normal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/normal.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/normal.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/ultralight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/ultralight.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/ultralight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/fonts/helvetica/ultralight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/jsrepl/engines/javascript-default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/jsrepl/jsrepl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/jsrepl/langs/javascript/jsrepl_js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/jsrepl/sandbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/jsrepl/sandbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/gitbook/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_book/imagens/imagem-i.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/capa.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/fontawesome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/normal.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/normal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/normal.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/normal.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/ultralight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/ultralight.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/ultralight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/fonts/helvetica/ultralight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/jsrepl/engines/javascript-default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/jsrepl/jsrepl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/jsrepl/langs/javascript/jsrepl_js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/jsrepl/sandbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/jsrepl/sandbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gitbook/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/indice.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xiii.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="pygamebrasil.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pygamebrasil.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="i.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/i.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="35" selection-start="342" selection-end="342" vertical-scroll-proportion="0.25046042" vertical-offset="0" max-vertical-offset="8670">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/i.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="35" />
+    <option name="width" value="1368" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pygamebrasil.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pygamebrasil.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pygamebrasil.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pygamebrasil.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pygamebrasil.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pygamebrasil.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pygamebrasil.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pygamebrasil.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pygamebrasil.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pygamebrasil.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07165b60-1af1-4a6b-98d0-fad139ced63d" name="Default" comment="" />
+      <created>1397013617397</created>
+      <updated>1397013617397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="35" width="1368" height="734" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/i.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="35" selection-start="342" selection-end="342" vertical-scroll-proportion="0.25046042" vertical-offset="0" max-vertical-offset="8670">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
